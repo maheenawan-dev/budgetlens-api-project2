@@ -37,4 +37,4 @@ Built as **Project 2** for the Full Stack Development track at Decode Labs.
 
 ## Author
 
-Mahi — BS Information Technology, UMT
+Maheen — BS Information Technology, UMT
